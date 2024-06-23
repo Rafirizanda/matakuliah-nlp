@@ -70,3 +70,27 @@ Tentu, berikut adalah penjelasan singkat untuk setiap pustaka:
 
 **FILE PPT PROJECT**
 https://bit.ly/PPT_NLP_Project
+**FILE JURNAL NLP**
+https://bit.ly/Jurnal_NLP_Project
+
+Referensi Jurnal
+[1] Andika, R., & Setiawan, E. (2021). Implementasi Named Entity Recognition untuk 
+Ekstraksi Informasi pada Artikel Ilmiah Berbahasa Indonesia. Jurnal Ilmu Komputer dan 
+Informasi, 14(2), 67-75. https://doi.org/10.21609/jiki.v14i2.945
+[2] Bird, S., Klein, E., & Loper, E. (2009). Natural Language Processing with Python: 
+Analyzing Text with the Natural Language Toolkit. O'Reilly Media.
+[3] Fauzi, A., & Wijayanto, H. (2020). Penggunaan Metode TF-IDF dan K-Means untuk 
+Klasifikasi Dokumen Abstrak Jurnal. Jurnal Pengembangan Teknologi Informasi dan Ilmu 
+Komputer, 4(6), 212-219. https://doi.org/10.25126/jptiik.46221
+[4] Hartono, Y., & Sutrisno, E. (2019). Penerapan Natural Language Processing untuk 
+Pembuatan Ringkasan Otomatis Artikel Ilmiah. Jurnal Teknologi Informasi dan Komunikasi, 
+8(3), 145-153. https://doi.org/10.25126/jtik.83145
+[5] Puspitasari, D., & Ramadhani, F. (2020). Analisis Sentimen pada Abstrak Jurnal 
+Menggunakan Metode Naive Bayes dan NLP. Jurnal Sistem Informasi, 16(1), 33-40. 
+https://doi.org/10.21609/jsi.v16i1.903
+[6] Rahayu, T., & Syafitri, W. (2019). Implementasi Algoritma Support Vector Machine dan 
+Natural Language Processing untuk Klasifikasi Teks Abstrak Jurnal. Jurnal Teknologi 
+Informasi,5(2), 22-28. https://doi.org/10.32493/jti.v5i2.324
+[7] Santoso, B., & Pratama, Y. (2021). Penggunaan Natural Language Processing dan Algoritma 
+Clustering untuk Ekstraksi Informasi pada Abstrak Jurnal. Jurnal Ilmiah Teknik Informatika 
+Komputer dan Sistem Informasi, 7(4), 198-205. https://doi.org/10.35671/jitiks.v7i4.787
