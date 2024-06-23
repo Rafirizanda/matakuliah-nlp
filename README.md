@@ -4,6 +4,7 @@ THIS IS MY PORTFOLIO PROJECT FOR SUBJECT NATURAL LANGUAGE PROCESSING
 
 Here's the list of the project and what inside them:
 1. App.py
+
    Project that we build from the tutorial youtube videos (https://www.youtube.com/playlist?list=PLZLuc8eJafeEuR-7X5pb6xgGOPosuVty0).
    The Project was about AI Resume Analyzer, The creation of the AI ​​Resume Analyzer is explained in a video series on YouTube consisting of several main steps.
    First, the application was built using Python by utilizing the Streamlit library for the user interface. Resume data is uploaded and processed to extract
@@ -12,6 +13,7 @@ Here's the list of the project and what inside them:
    setting up the development environment to deployment and final evaluation of the application.
    
 3. Courses.py
+   
    Kode di atas adalah sebuah daftar kursus online yang dikategorikan berdasarkan berbagai topik seperti ilmu data, pengembangan web, pengembangan aplikasi
    Android,     pengembangan aplikasi iOS, dan desain UI/UX. Setiap kategori memiliki beberapa kursus yang tercantum dengan nama kursus dan tautan ke kursus
    tersebut. Selain itu,    terdapat juga dua daftar video yang berisi tautan video tentang cara membuat resume dan mempersiapkan wawancara. Fungsi dari kode ini
