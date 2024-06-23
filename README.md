@@ -28,14 +28,42 @@ abstrak, hasil/isi, keyword, fakultas, dan rekomendasi topic dari abstrak jurnal
 abstrak jurnal, dan sistem akan secara otomatis mendeteksi serta menghasilkan resume yang disajikan dalam beberapa poin utama.
 
 Daftar Pustaka Python :
-1. Sklearn
-2. Spacy
-3. RE
-4. fitz
-5. pdfminer3
-6. pymysql
-7. streamlit
-8. pandas
-9. tfidf
+Tentu, berikut adalah penjelasan singkat untuk setiap pustaka:
+
+1. **Scikit-learn (Sklearn)**:
+   - **Penjelasan**: Pustaka machine learning untuk Python.
+   - **Fungsi**: Algoritma machine learning, evaluasi model, preprocessing data.
+
+2. **spaCy**:
+   - **Penjelasan**: Pustaka NLP yang cepat dan canggih.
+   - **Fungsi**: Pemrosesan teks, ekstraksi informasi, NLP.
+
+3. **RE (Regular Expression)**:
+   - **Penjelasan**: Modul untuk ekspresi reguler di Python.
+   - **Fungsi**: Pencocokan dan manipulasi teks.
+
+4. **fitz (PyMuPDF)**:
+   - **Penjelasan**: Pustaka untuk bekerja dengan PDF.
+   - **Fungsi**: Membaca, memanipulasi, dan menganalisis dokumen PDF.
+
+5. **pdfminer3**:
+   - **Penjelasan**: Pustaka untuk ekstraksi teks dari PDF.
+   - **Fungsi**: Ekstraksi teks dan metadata dari file PDF.
+
+6. **pymysql**:
+   - **Penjelasan**: Pustaka untuk koneksi ke database MySQL dari Python.
+   - **Fungsi**: Menjalankan kueri SQL, manajemen database.
+
+7. **streamlit**:
+   - **Penjelasan**: Framework untuk membangun aplikasi web interaktif dengan Python.
+   - **Fungsi**: Membuat dashboard dan aplikasi data.
+
+8. **pandas**:
+   - **Penjelasan**: Pustaka untuk manipulasi dan analisis data.
+   - **Fungsi**: DataFrame, pembersihan data, analisis data.
+
+9. **TF-IDF (Term Frequency-Inverse Document Frequency)**:
+   - **Penjelasan**: Teknik statistik untuk mengevaluasi pentingnya kata dalam dokumen.
+   - **Fungsi**: Pemeringkatan relevansi kata dalam teks untuk pencarian informasi.
   
 Alur Kode NLP : Untuk memproses data dari file PDF, langkah pertama adalah pra-pemrosesan teks. Proses ini dimulai dengan ekstraksi teks menggunakan pustaka seperti PyMuPDF, pdfminer, atau PyPDF2. Setelah teks diekstrak, karakter spesial seperti tanda baca dan simbol yang tidak relevan dihapus, dan semua huruf diubah menjadi huruf kecil untuk konsistensi. Selanjutnya, teks dipecah menjadi unit-unit kata yang lebih kecil melalui proses tokenisasi. Setelah pra-pemrosesan, kata kunci dikenali dengan metode statistik seperti Term Frequency (TF), yang menghitung frekuensi kemunculan setiap kata, dan Inverse Document Frequency (IDF), yang menentukan seberapa umum atau jarang sebuah kata muncul di sejumlah dokumen. Kombinasi TF dan IDF menghasilkan TF-IDF, yang membantu menemukan kata-kata signifikan yang sering muncul di dokumen tertentu tetapi jarang di dokumen lain. Akhirnya, dari daftar kata yang telah diidentifikasi, kata kunci yang paling relevan dipilih berdasarkan kriteria seperti frekuensi kemunculan. 
